@@ -1,0 +1,58 @@
+
+https://www.spoj.com/problems/ABCPATH/
+
+
+#include <iostream>
+using namespace std;
+int visited[51][51];
+int count=0;
+char a[51][51];
+void dfs(int row,int col,int depth,int n,int m)
+{
+	count=max(count,depth);
+	int rr[8]={-1,-1,-1,0,0,1,1,1};
+	int cc[8]={-1,0,1,-1,1,-1,0,1};
+	int i;
+	for(i=0;i<8;i++)
+	{
+		int r_ow=row+rr[i];
+		int c_ol=col+cc[i];
+		if((r_ow>=0&&r_ow<n)&&(c_ol>=0&&c_ol<m)&&!(visited[r_ow][c_ol]))
+		{
+			if(a[row][col]+1==a[r_ow][c_ol])
+			{
+				visited[r_ow][c_ol]=1;
+				dfs(r_ow,c_ol,depth+1,n,m);
+			}
+		}
+	}
+}	
+int main() {
+	int c=0,n,m;
+	while(1){
+		cin>>n>>m;
+		if(n==0&&m==0)
+		break;
+	    c++;
+	for(int i=0;i<n;i++)
+	  for(int j=0;j<m;j++)
+	     cin>>a[i][j];
+	 for(int i=0;i<n;i++)
+	  for(int j=0;j<m;j++)
+	      visited[i][j]=0;
+	      count=0;
+	 for(int i=0;i<n;i++)
+	 {
+	 	for(int j=0;j<m;j++)
+	 	{
+	 		if(a[i][j]=='A')
+	 		{
+	 		visited[i][j]=1;
+	 	    dfs(i,j,1,n,m);
+	 	    }
+	 	}
+	 }
+	 cout<<"Case "<<c<<": "<<count<<endl;
+	} 
+	return 0;
+}  
