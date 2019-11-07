@@ -1,0 +1,18 @@
+
+Here Node pointer is the pointer which is to be deleted.
+So what we will do is we will swap the curr node value with the next one until end..
+and delete the last node.
+void deleteNode(Node *node)
+{
+   Node* nextt;
+   Node* prev;
+   Node* curr=node;
+   while(curr->next!=NULL)
+   {
+       prev=curr;
+       nextt=curr->next;
+       curr->data=nextt->data;
+       curr=nextt;
+   }
+   prev->next=NULL;
+}
