@@ -1,0 +1,82 @@
+https://leetcode.com/problems/add-two-numbers/description/
+
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* a, ListNode* b) {
+        ListNode* start=new ListNode(0);
+        ListNode* curr=start;
+        int sum=0,carry=0;
+        while(a||b||carry)
+        {
+            if(a!=NULL)
+            {
+                sum+=a->val;
+                a=a->next;
+            }
+            if(b!=NULL)
+            {
+                sum+=b->val;
+                b=b->next;
+            }
+            sum+=carry;
+            carry=sum/10;
+            sum=sum%10;
+            curr->next=new ListNode(sum);
+            curr=curr->next;
+            sum=0;
+        }
+        return start->next;
+    }
+};
+
+https://leetcode.com/problems/add-two-numbers-ii/description/
+
+Idea is to first Reverse The Strings and then use above idea!
+
+ListNode* reverse(ListNode* head)
+{
+    if(head==NULL)
+        return NULL;
+    ListNode* curr=head;
+    ListNode* prev=NULL;
+    ListNode* nextt;
+    while(curr!=NULL)
+    {
+        nextt=curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=nextt;
+    }
+    return prev;
+}
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* x, ListNode* y) {
+        ListNode* start=new ListNode(0);
+        ListNode* curr=start;
+        int sum=0,carry=0;
+        ListNode* a=reverse(x);
+        ListNode* b=reverse(y);
+        while(a||b||carry)
+        {
+            if(a!=NULL)
+            {
+                sum+=a->val;
+                a=a->next;
+            }
+            if(b!=NULL)
+            {
+                sum+=b->val;
+                b=b->next;
+            }
+            sum+=carry;
+            carry=sum/10;
+            sum=sum%10;
+            curr->next=new ListNode(sum);
+            curr=curr->next;
+            sum=0;
+        }
+        ListNode* res=reverse(start->next);
+        return res;
+    }
+};
