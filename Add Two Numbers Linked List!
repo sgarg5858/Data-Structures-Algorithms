@@ -80,3 +80,49 @@ public:
         return res;
     }
 };
+Follow up:
+We can't reverse Linked List!
+
+```
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* a, ListNode* b) {
+        ListNode* curr=NULL;
+        ListNode* prev=NULL;
+        int sum=0,carry=0;
+        stack<int>x,y;
+        while(a!=NULL)
+        {
+            x.push(a->val);
+            a=a->next;
+        }
+        while(b!=NULL)
+        {
+            y.push(b->val);
+                b=b->next;
+        }
+        while(!x.empty()||!y.empty()||carry)
+        {
+            if(!x.empty())
+            {
+                sum+=x.top();
+                x.pop();
+            }
+            if(!y.empty())
+            {
+                sum+=y.top();
+                y.pop();
+            }
+            sum+=carry;
+            carry=sum/10;
+            sum=sum%10;
+            ListNode* temp=new ListNode(sum);
+            temp->next=curr;
+            curr=temp;
+            sum=0;
+            
+        }
+        return curr;
+    }
+};
+```
