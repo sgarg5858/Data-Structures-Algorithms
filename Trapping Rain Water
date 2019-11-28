@@ -1,0 +1,41 @@
+https://leetcode.com/problems/trapping-rain-water/description/
+
+class Solution {
+public:
+    int trap(vector<int>& v) {
+        int n=v.size();
+        if(n<3)
+            return 0;
+        int l=0,r=n-1;
+        int leftmax=v[0],rightmax=v[n-1];
+        int water=0;
+        while(l<r)
+        {
+            if(v[l]<v[r])
+            {
+                if(v[l]<leftmax)
+                {
+                    water+=leftmax-v[l];
+                }
+                else
+                {
+                    leftmax=v[l];
+                }
+                l++;
+            }
+            else
+            {
+                if(v[r]<rightmax)
+                {
+                    water+=rightmax-v[r];
+                }
+                else
+                {
+                    rightmax=v[r];
+                }
+                r--;
+            }
+        }
+        return water;
+    }
+};
