@@ -1,0 +1,36 @@
+
+https://leetcode.com/problems/combination-sum-ii/description/
+
+
+class Solution {
+public:
+    void makecombinations(vector<vector<int>>&res,vector<int>curr,vector<int>&v,int tar,int ind)
+    {
+        if(tar==0)
+        {
+            res.push_back(curr);
+            return;
+        }
+        
+            for(int i=ind;i<v.size();i++)
+            {
+                if(v[i]>tar)
+                    return;
+                if(i!=ind && v[i]==v[i-1]) // for skipping duplicates
+                    continue;
+                    curr.push_back(v[i]);
+                    makecombinations(res,curr,v,tar-v[i],i+1);
+                    curr.pop_back();
+                
+            }
+    }
+    vector<vector<int>> combinationSum2(vector<int>& v, int tar) {
+        int n=v.size();
+        vector<vector<int>>res;
+        vector<int>curr;
+        int l=0;
+        sort(v.begin(),v.end());
+        makecombinations(res,curr,v,tar,l);
+        return res;
+    }
+};
