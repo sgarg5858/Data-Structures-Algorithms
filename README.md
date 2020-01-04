@@ -26,3 +26,9 @@ Matrix DP problems:
 3.https://leetcode.com/problems/largest-1-bordered-square/description/
 
 4.https://leetcode.com/problems/champagne-tower/description/
+
+Matrix Word Search:
+
+1.https://leetcode.com/problems/word-search/description/
+
+2.https://leetcode.com/problems/word-search-ii/description/
