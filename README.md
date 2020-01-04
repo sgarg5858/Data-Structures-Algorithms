@@ -16,3 +16,11 @@ Interval Problems
 6.https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/
 
 7.https://leetcode.com/problems/merge-intervals/description/
+
+Matrix DP problems:
+
+1. https://leetcode.com/problems/maximal-square/description/
+
+2. https://leetcode.com/problems/largest-plus-sign/description/
+
+3.https://leetcode.com/problems/largest-1-bordered-square/description/
