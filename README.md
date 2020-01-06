@@ -60,3 +60,21 @@ Longest Increasing Subsequence  Prolems:
 1.https://leetcode.com/problems/longest-increasing-subsequence
 
 2.https://leetcode.com/problems/russian-doll-envelopes
+
+Backtracking Problems:
+
+1.https://leetcode.com/problems/subsets
+
+2.https://leetcode.com/problems/subsets-ii
+
+3.https://leetcode.com/problems/n-queens
+
+4.https://leetcode.com/problems/combination-sum
+
+5.https://leetcode.com/problems/combination-sum-ii
+
+6.https://leetcode.com/problems/permutations
+
+7.https://leetcode.com/problems/permutations-ii
+
+8.https://leetcode.com/problems/generate-parentheses
