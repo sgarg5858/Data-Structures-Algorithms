@@ -1,6 +1,5 @@
 # Data-Structures-Algorithms #Leetcode #Algorithms #ProblemSolving #Programming
 
-https://leetcode.com/sanjaygarg/
 
 Interval Problems
 
