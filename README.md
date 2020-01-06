@@ -32,3 +32,11 @@ Matrix Word Search:
 1.https://leetcode.com/problems/word-search/description/
 
 2.https://leetcode.com/problems/word-search-ii/description/
+
+More Matrix Problems:
+
+1.https://leetcode.com/problems/set-matrix-zeroes/description/
+
+2.https://leetcode.com/problems/spiral-matrix/description/
+
+3.https://leetcode.com/problems/search-a-2d-matrix/description/
