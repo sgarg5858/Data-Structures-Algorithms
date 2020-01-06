@@ -19,9 +19,9 @@ Interval Problems
 
 Matrix DP problems:
 
-1. https://leetcode.com/problems/maximal-square/description/
+1.https://leetcode.com/problems/maximal-square/description/
 
-2. https://leetcode.com/problems/largest-plus-sign/description/
+2.https://leetcode.com/problems/largest-plus-sign/description/
 
 3.https://leetcode.com/problems/largest-1-bordered-square/description/
 
