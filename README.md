@@ -53,7 +53,7 @@ Binary Search Problems:
 
 6.https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 
-7.3.https://leetcode.com/problems/search-a-2d-matrix/description/
+7.https://leetcode.com/problems/search-a-2d-matrix/description/
 
 Longest Increasing Subsequence  Prolems:
 
