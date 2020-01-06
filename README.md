@@ -40,3 +40,23 @@ More Matrix Problems:
 2.https://leetcode.com/problems/spiral-matrix/description/
 
 3.https://leetcode.com/problems/search-a-2d-matrix/description/
+
+Binary Search Problems:
+
+1.https://leetcode.com/problems/valid-perfect-square/description/
+
+2.https://leetcode.com/problems/sqrtx/description/
+
+3.https://leetcode.com/problems/search-in-rotated-sorted-array
+
+4.https://leetcode.com/problems/koko-eating-bananas
+
+5.https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+
+6.https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+
+Longest Increasing Subsequence  Prolems:
+
+1.https://leetcode.com/problems/longest-increasing-subsequence
+
+2.https://leetcode.com/problems/russian-doll-envelopes
