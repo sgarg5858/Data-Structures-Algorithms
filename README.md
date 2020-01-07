@@ -84,3 +84,19 @@ String Problems:
 1.https://leetcode.com/problems/add-strings/description/
 
 2.https://leetcode.com/problems/multiply-strings/description/
+
+3.https://leetcode.com/problems/minimum-window-substring/description/
+
+4.https://leetcode.com/problems/longest-substring-without-repeating-characters
+
+5.https://leetcode.com/problems/longest-palindromic-substring
+
+6.https://leetcode.com/problems/implement-strstr (KMP) (Z)
+
+7.https://leetcode.com/problems/edit-distance
+
+8.https://leetcode.com/problems/reorganize-string
+
+9.https://leetcode.com/problems/greatest-common-divisor-of-strings
+
+10.https://leetcode.com/problems/valid-palindrome-ii
