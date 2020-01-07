@@ -78,3 +78,9 @@ Backtracking Problems:
 7.https://leetcode.com/problems/permutations-ii
 
 8.https://leetcode.com/problems/generate-parentheses
+
+String Problems:
+
+1.https://leetcode.com/problems/add-strings/description/
+
+2.https://leetcode.com/problems/multiply-strings/description/
