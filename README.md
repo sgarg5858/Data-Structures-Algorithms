@@ -41,6 +41,8 @@ More Matrix Problems:
 
 3.https://leetcode.com/problems/search-a-2d-matrix-ii/description/
 
+4.https://leetcode.com/problems/search-a-2d-matrix/description/
+
 Binary Search Problems:
 
 1.https://leetcode.com/problems/valid-perfect-square/description/
@@ -55,7 +57,6 @@ Binary Search Problems:
 
 6.https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 
-7.https://leetcode.com/problems/search-a-2d-matrix/description/
 
 Longest Increasing Subsequence  Prolems:
 
