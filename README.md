@@ -103,3 +103,15 @@ String Problems:
 9.https://leetcode.com/problems/greatest-common-divisor-of-strings
 
 10.https://leetcode.com/problems/valid-palindrome-ii
+
+Binary Search Trees:
+
+1.https://leetcode.com/problems/validate-binary-search-tree/description/
+
+2.https://leetcode.com/problems/recover-binary-search-tree/description/
+
+Binary Trees:
+
+1.https://leetcode.com/problems/same-tree/description/
+
+2.https://leetcode.com/problems/symmetric-tree/description/
