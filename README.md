@@ -110,8 +110,20 @@ Binary Search Trees:
 
 2.https://leetcode.com/problems/recover-binary-search-tree/description/
 
+3.https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+
 Binary Trees:
 
 1.https://leetcode.com/problems/same-tree/description/
 
 2.https://leetcode.com/problems/symmetric-tree/description/
+
+3.https://leetcode.com/problems/binary-tree-level-order-traversal
+
+4.https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+
+5.https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+6.https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+
+7.https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
