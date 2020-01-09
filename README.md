@@ -127,3 +127,9 @@ Binary Trees:
 6.https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 
 7.https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+
+8.https://leetcode.com/problems/subtree-of-another-tree/description/
+
+9.https://leetcode.com/problems/path-sum/description/
+
+10.https://leetcode.com/problems/path-sum-ii/
