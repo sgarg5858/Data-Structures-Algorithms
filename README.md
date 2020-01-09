@@ -27,6 +27,10 @@ Matrix DP problems:
 
 4.https://leetcode.com/problems/champagne-tower/description/
 
+5.https://leetcode.com/problems/pascals-triangle/description/
+
+6.https://leetcode.com/problems/pascals-triangle-ii/description/
+
 Matrix Word Search:
 
 1.https://leetcode.com/problems/word-search/description/
@@ -135,3 +139,5 @@ Binary Trees:
 9.https://leetcode.com/problems/path-sum/description/
 
 10.https://leetcode.com/problems/path-sum-ii/
+
+11.https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
