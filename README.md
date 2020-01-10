@@ -135,7 +135,7 @@ Binary Search Trees:
 
 4.https://leetcode.com/problems/binary-search-tree-iterator/description/
 
-Binary Trees:
+Binary Trees using dfs/bfs:
 
 1.https://leetcode.com/problems/same-tree/description/
 
@@ -161,9 +161,11 @@ Binary Trees:
 
 12.https://leetcode.com/problems/path-sum-iii/description/
 
-Breadth First Search:
+Breadth First Search / Depth First Search:
 
 1.https://leetcode.com/problems/surrounded-regions
+
+2.https://leetcode.com/problems/number-of-islands
 
 Stack:
 
