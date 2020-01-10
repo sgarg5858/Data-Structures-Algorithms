@@ -155,3 +155,9 @@ Breadth First Search:
 
 1.https://leetcode.com/problems/surrounded-regions
 
+Stack:
+
+1.https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+
+2.https://leetcode.com/problems/largest-rectangle-in-histogram/
+
