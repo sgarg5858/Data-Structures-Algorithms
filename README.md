@@ -4,7 +4,11 @@ Array Problems:
 
 1.https://leetcode.com/problems/gas-station/description/
 
-2.https://leetcode.com/problems/maximum-gap/description/ Radix Sort!
+2.https://leetcode.com/problems/largest-number/description/
+
+3.https://leetcode.com/problems/rotate-array/description/
+
+4.https://leetcode.com/problems/house-robber/description/
 
 Interval Problems
 
@@ -35,6 +39,8 @@ Matrix DP problems:
 5.https://leetcode.com/problems/pascals-triangle/description/
 
 6.https://leetcode.com/problems/pascals-triangle-ii/description/
+
+7.https://leetcode.com/problems/dungeon-game/description/
 
 Matrix Word Search:
 
