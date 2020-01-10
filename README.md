@@ -101,7 +101,10 @@ String Problems:
 
 4.https://leetcode.com/problems/longest-substring-without-repeating-characters
 
-5.https://leetcode.com/problems/longest-palindromic-substring
+5.
+ a.https://leetcode.com/problems/longest-palindromic-substring
+
+ b.https://leetcode.com/problems/palindrome-partitioning-ii/description/ 
 
 6.https://leetcode.com/problems/implement-strstr (KMP) (Z)
 
@@ -112,6 +115,7 @@ String Problems:
 9.https://leetcode.com/problems/greatest-common-divisor-of-strings
 
 10.https://leetcode.com/problems/valid-palindrome-ii
+
 
 Binary Search Trees:
 
@@ -146,3 +150,4 @@ Binary Trees:
 11.https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
 
 12.https://leetcode.com/problems/path-sum-iii/description/
+
