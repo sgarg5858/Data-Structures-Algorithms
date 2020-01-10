@@ -4,6 +4,8 @@ Array Problems:
 
 1.https://leetcode.com/problems/gas-station/description/
 
+2.https://leetcode.com/problems/maximum-gap/description/ Radix Sort!
+
 Interval Problems
 
 1.https://leetcode.com/problems/insert-interval/  
@@ -124,6 +126,8 @@ Binary Search Trees:
 2.https://leetcode.com/problems/recover-binary-search-tree/description/
 
 3.https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+
+4.https://leetcode.com/problems/binary-search-tree-iterator/description/
 
 Binary Trees:
 
