@@ -44,6 +44,12 @@ Matrix DP problems:
 
 7.https://leetcode.com/problems/dungeon-game/description/
 
+Range Query In Matrix:
+
+1.https://leetcode.com/problems/range-sum-query-2d-immutable/description/
+
+2.https://leetcode.com/problems/matrix-block-sum/description/
+
 Matrix Word Search:
 
 1.https://leetcode.com/problems/word-search/description/
