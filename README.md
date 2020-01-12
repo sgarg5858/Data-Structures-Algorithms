@@ -50,6 +50,8 @@ Range Query In Matrix:
 
 2.https://leetcode.com/problems/matrix-block-sum/description/
 
+3.https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/
+
 Matrix Word Search:
 
 1.https://leetcode.com/problems/word-search/description/
