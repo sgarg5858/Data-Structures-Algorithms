@@ -12,6 +12,10 @@ Array Problems:
 
 5.https://leetcode.com/problems/house-robber-ii/
 
+6.https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+7.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+
 Interval Problems
 
 1.https://leetcode.com/problems/insert-interval/  
