@@ -1,5 +1,11 @@
 # Data-Structures-Algorithms #Leetcode #Algorithms #ProblemSolving #Programming
 
+Dynamic Programming:
+
+1.https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/
+
+2.https://leetcode.com/problems/video-stitching/description/
+
 Array Problems:
 
 1.https://leetcode.com/problems/gas-station/description/
