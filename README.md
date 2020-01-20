@@ -6,6 +6,10 @@ Dynamic Programming:
 
 2.https://leetcode.com/problems/video-stitching/description/
 
+3.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+
+4.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
+
 Array Problems:
 
 1.https://leetcode.com/problems/gas-station/description/
