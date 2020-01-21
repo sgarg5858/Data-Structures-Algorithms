@@ -12,6 +12,8 @@ Dynamic Programming:
 
 5.https://leetcode.com/problems/palindrome-partitioning-ii/description/
 
+6.https://leetcode.com/problems/word-break/description/
+
 Array Problems:
 
 1.https://leetcode.com/problems/gas-station/description/
