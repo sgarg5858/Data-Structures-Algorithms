@@ -18,6 +18,8 @@ Dynamic Programming:
 
 8.https://leetcode.com/problems/coin-change/description/
 
+9.https://leetcode.com/problems/minimum-cost-for-tickets/description/
+
 
 Array Problems:
 
