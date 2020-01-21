@@ -14,6 +14,11 @@ Dynamic Programming:
 
 6.https://leetcode.com/problems/word-break/description/
 
+7.https://leetcode.com/problems/super-ugly-number/description/
+
+8.https://leetcode.com/problems/coin-change/description/
+
+
 Array Problems:
 
 1.https://leetcode.com/problems/gas-station/description/
