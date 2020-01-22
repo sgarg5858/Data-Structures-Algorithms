@@ -20,6 +20,8 @@ Dynamic Programming:
 
 9.https://leetcode.com/problems/minimum-cost-for-tickets/description/
 
+10.https://leetcode.com/problems/partition-equal-subset-sum/description/
+
 
 Array Problems:
 
