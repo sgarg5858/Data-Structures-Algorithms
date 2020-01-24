@@ -30,6 +30,8 @@ Dynamic Programming:
 
 14.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/ (Heaps/DP)
 
+15.https://leetcode.com/problems/push-dominoes/description/ 
+
 
 Array Problems:
 
