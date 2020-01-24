@@ -28,6 +28,8 @@ Dynamic Programming:
 
 13.https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
 
+14.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/ (Heaps/DP)
+
 
 Array Problems:
 
@@ -44,6 +46,7 @@ Array Problems:
 6.https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 7.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+
 
 Interval Problems
 
