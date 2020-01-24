@@ -24,6 +24,8 @@ Dynamic Programming:
 
 11.https://leetcode.com/problems/delete-and-earn/description/
 
+12.https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/
+
 
 Array Problems:
 
