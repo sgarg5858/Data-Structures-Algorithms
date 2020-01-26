@@ -221,3 +221,6 @@ Stack:
 
 2.https://leetcode.com/problems/largest-rectangle-in-histogram/
 
+Queue:
+
+1.https://leetcode.com/problems/reveal-cards-in-increasing-order/description/
