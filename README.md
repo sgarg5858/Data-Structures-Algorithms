@@ -226,3 +226,10 @@ Stack:
 Queue:
 
 1.https://leetcode.com/problems/reveal-cards-in-increasing-order/description/
+
+Graph:
+
+BFS:
+
+1.https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/description/
+
