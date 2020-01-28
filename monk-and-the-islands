@@ -1,0 +1,58 @@
+https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/description/
+
+
+
+//import for Scanner and other utility classes
+import java.util.*;
+
+class TestClass {
+    public static void main(String args[] ) throws Exception {
+        
+        Scanner s=new Scanner(System.in);
+        int t=s.nextInt();
+        while(t>0)
+        {
+             int n=s.nextInt();
+             int m=s.nextInt();
+             List<List<Integer>>graph=new ArrayList<>(n+1);
+             for(int i=0;i<=n;i++)
+             {
+                 graph.add(new ArrayList<>());
+             }
+             for(int i=0;i<m;i++)
+             {
+                 int st=s.nextInt();
+                 int en=s.nextInt();
+                 graph.get(st).add(en);
+                 graph.get(en).add(st);
+                 
+             }
+             int[] dist=new int[n+1];
+             for(int i=1;i<=n;i++)
+             {
+                 dist[i]=Integer.MAX_VALUE;
+             }
+             boolean[] vis=new boolean[n+1];
+             Queue<Integer>q=new LinkedList<>();
+             q.add(1);
+             dist[1]=0;
+             vis[1]=true;
+             while(!q.isEmpty())
+             {
+                 int curr=q.poll();
+                 for(int i=0;i<graph.get(curr).size();i++)
+                 {
+                     int next=graph.get(curr).get(i);
+                     if(vis[next]==true)
+                     continue;
+                     dist[next]=Math.min(dist[next],dist[curr]+1);
+                     q.add(next);
+                     vis[next]=true;
+                 }
+             }
+             System.out.println(dist[n]);
+             t--;
+        }
+
+    }
+}
