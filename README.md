@@ -229,7 +229,7 @@ Queue:
 
 Graph:
 
-BFS:
+DFS/BFS:
 
 1.https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/description/
 
@@ -244,3 +244,5 @@ BFS:
 6.https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/kingdom-of-monkeys/description/
 
 7.https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/
+
+8.https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/(Imp)
