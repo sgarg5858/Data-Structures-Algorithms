@@ -251,6 +251,10 @@ DFS/BFS:
 
 10.https://leetcode.com/problems/find-eventual-safe-states/description/
 
+11.https://leetcode.com/problems/redundant-connection/description/
+
+12.https://leetcode.com/problems/redundant-connection-ii/description/
+
 Shortest Path Problems:
 
 1.https://leetcode.com/problems/network-delay-time/description/
