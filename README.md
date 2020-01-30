@@ -245,4 +245,7 @@ DFS/BFS:
 
 7.https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/
 
-8.https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/(Imp)
+8.https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/ (Imp)
+
+9.https://leetcode.com/problems/open-the-lock/description/
+
