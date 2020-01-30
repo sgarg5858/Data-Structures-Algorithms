@@ -249,7 +249,7 @@ DFS/BFS:
 
 9.https://leetcode.com/problems/open-the-lock/description/
 
-10. https://leetcode.com/problems/find-eventual-safe-states/description/
+10.https://leetcode.com/problems/find-eventual-safe-states/description/
 
 Shortest Path Problems:
 
