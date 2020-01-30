@@ -1,0 +1,59 @@
+
+
+https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
+
+this code is for problem at th end of this tutorial.
+
+
+import java.util.*;
+
+class TestClass {
+    public static void main(String args[] ) throws Exception {
+       
+        Scanner s = new Scanner(System.in);
+        int n=s.nextInt();
+        int m=s.nextInt();
+        List<List<int[]>>graph=new ArrayList<>(n+1);
+        for(int i=0;i<=n;i++)
+        {
+            graph.add(new ArrayList<>());
+        }
+        for(int i=0;i<m;i++)
+        {
+            int st=s.nextInt();
+            int en=s.nextInt();
+            int cost=s.nextInt();
+            graph.get(st).add(new int[]{en,cost});
+            graph.get(en).add(new int[]{st,cost});
+        }
+        PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->(a[1]-b[1]));
+        pq.add(new int[]{1,0});
+        boolean[] vis=new boolean[n+1];
+        int mincost=0;
+        while(!pq.isEmpty())
+        {
+           int[] curr=pq.poll();
+           int source=curr[0];
+           int cost=curr[1];
+           if(vis[source]==true)
+           {
+               continue;
+           }
+           mincost=mincost+cost;
+           vis[source]=true;
+           for(int i=0;i<graph.get(source).size();i++)
+           {
+               int[] temp=graph.get(source).get(i);
+               int next=temp[0];
+               if(vis[next]==false)
+               {
+                   pq.add(temp);
+               }
+           }
+           
+        }
+        System.out.println(mincost);
+       
+        
+    }
+}
