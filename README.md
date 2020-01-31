@@ -290,6 +290,8 @@ DFS/BFS:
 
 14.http://codeforces.com/contest/520/problem/B
 
+15.http://codeforces.com/problemset/problem/20/C
+
 Shortest Path Problems:
 
 1.https://leetcode.com/problems/network-delay-time/description/
