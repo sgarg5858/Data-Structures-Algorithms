@@ -288,6 +288,8 @@ DFS/BFS:
 
 13.https://leetcode.com/problems/jump-game-iii/description/
 
+14.http://codeforces.com/contest/520/problem/B
+
 Shortest Path Problems:
 
 1.https://leetcode.com/problems/network-delay-time/description/
