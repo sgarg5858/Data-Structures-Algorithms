@@ -42,6 +42,28 @@ Sliding Window:
 
 1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
 
+2.https://leetcode.com/problems/fruit-into-baskets/
+
+3.https://leetcode.com/problems/sliding-window-maximum
+
+4.https://leetcode.com/problems/longest-substring-without-repeating-characters
+
+Two Pointers:
+
+1.https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+
+2.https://leetcode.com/problems/max-consecutive-ones-iii
+
+3.https://leetcode.com/problems/subarray-product-less-than-k
+
+4.https://leetcode.com/problems/sort-colors
+
+5.https://leetcode.com/problems/trapping-rain-water
+
+6.https://leetcode.com/problems/partition-labels
+
+7.https://leetcode.com/problems/most-profit-assigning-work/description/
+
 Array Problems:
 
 1.https://leetcode.com/problems/gas-station/description/
@@ -263,6 +285,8 @@ DFS/BFS:
 11.https://leetcode.com/problems/redundant-connection/description/
 
 12.https://leetcode.com/problems/redundant-connection-ii/description/
+
+13.https://leetcode.com/problems/jump-game-iii/description/
 
 Shortest Path Problems:
 
