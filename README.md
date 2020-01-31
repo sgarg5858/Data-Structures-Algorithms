@@ -28,10 +28,19 @@ Dynamic Programming:
 
 13.https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
 
-14.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/ (Heaps/DP)
+14.https://leetcode.com/problems/push-dominoes/description/ 
 
-15.https://leetcode.com/problems/push-dominoes/description/ 
+Heaps:
 
+1.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
+
+2.https://leetcode.com/problems/course-schedule-iii/description/
+
+3.https://leetcode.com/problems/relative-ranks/description/
+
+Sliding Window:
+
+1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
 
 Array Problems:
 
