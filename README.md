@@ -38,6 +38,8 @@ Heaps:
 
 3.https://leetcode.com/problems/relative-ranks/description/
 
+4.https://leetcode.com/problems/find-median-from-data-stream
+
 Sliding Window:
 
 1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
@@ -180,6 +182,8 @@ Backtracking Problems:
 
 9.https://leetcode.com/problems/palindrome-partitioning
 
+10.https://leetcode.com/problems/path-with-maximum-gold/description/
+
 String Problems:
 
 1.https://leetcode.com/problems/add-strings/description/
@@ -242,6 +246,14 @@ Binary Trees using dfs/bfs:
 
 12.https://leetcode.com/problems/path-sum-iii/description/
 
+13.https://leetcode.com/problems/univalued-binary-tree
+
+14.https://leetcode.com/problems/maximum-width-of-binary-tree
+
+15.https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+
+16.https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+
 Breadth First Search / Depth First Search:
 
 1.https://leetcode.com/problems/surrounded-regions
@@ -253,6 +265,10 @@ Stack:
 1.https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 
 2.https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+3.https://leetcode.com/problems/online-stock-span
+
+4.https://leetcode.com/problems/maximum-width-ramp
 
 Queue:
 
@@ -290,15 +306,71 @@ DFS/BFS:
 
 14.http://codeforces.com/contest/520/problem/B
 
-15.http://codeforces.com/problemset/problem/20/C
+15.https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes
+
+16.https://leetcode.com/problems/number-of-closed-islands
+
+17.https://leetcode.com/problems/rotting-oranges
+
+18.https://leetcode.com/problems/cousins-in-binary-tree
+
+19.https://leetcode.com/problems/making-a-large-island
+
+20.https://leetcode.com/problems/friend-circles
+
 
 Shortest Path Problems:
 
 1.https://leetcode.com/problems/network-delay-time/description/
+
+2.http://codeforces.com/problemset/problem/20/C
 
 Topological Sort:(DAG)
 
 1.https://leetcode.com/problems/course-schedule/description/ 
 
 2.https://leetcode.com/problems/course-schedule-ii/description/
+
+Random:
+
+1.https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+
+2.https://leetcode.com/problems/two-city-scheduling
+
+3.https://leetcode.com/problems/distant-barcodes
+
+4.https://leetcode.com/problems/greatest-common-divisor-of-strings
+
+5.https://leetcode.com/problems/longest-well-performing-interval
+
+6.https://leetcode.com/problems/maximum-frequency-stack
+
+7.https://leetcode.com/problems/subarray-sums-divisible-by-k
+
+8.https://leetcode.com/problems/car-fleet
+
+9.https://leetcode.com/problems/subarray-product-less-than-k
+
+10.https://leetcode.com/problems/rabbits-in-forest
+
+11.https://leetcode.com/problems/brick-wall
+
+12.https://leetcode.com/problems/can-place-flowers
+
+13.https://leetcode.com/problems/maximum-product-of-three-numbers
+
+14.https://leetcode.com/problems/sort-characters-by-frequency
+
+15.https://leetcode.com/problems/ones-and-zeroes
+
+16.https://leetcode.com/problems/132-pattern
+
+17.https://leetcode.com/problems/product-of-array-except-self
+
+18.https://leetcode.com/problems/factorial-trailing-zeroes
+
+19.https://leetcode.com/problems/binary-search-tree-iterator
+
+
+
 
