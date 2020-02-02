@@ -40,6 +40,8 @@ Heaps:
 
 4.https://leetcode.com/problems/find-median-from-data-stream
 
+5.https://leetcode.com/problems/reorganize-string/description/
+
 Sliding Window:
 
 1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
