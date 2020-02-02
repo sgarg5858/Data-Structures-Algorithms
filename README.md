@@ -30,6 +30,8 @@ Dynamic Programming:
 
 14.https://leetcode.com/problems/push-dominoes/description/ 
 
+15.https://leetcode.com/problems/jump-game-v/description/
+
 Heaps:
 
 1.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
