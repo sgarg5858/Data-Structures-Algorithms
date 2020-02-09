@@ -264,6 +264,10 @@ Breadth First Search / Depth First Search:
 
 2.https://leetcode.com/problems/number-of-islands
 
+3.https://leetcode.com/problems/jump-game-iv/description/
+
+4.https://leetcode.com/problems/jump-game-iii/
+
 Stack:
 
 1.https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
