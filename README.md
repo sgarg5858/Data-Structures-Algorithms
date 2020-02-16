@@ -105,6 +105,8 @@ Interval Problems
 
 7.https://leetcode.com/problems/merge-intervals/description/
 
+8.https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/ (V.Imp)
+
 Matrix DP problems:
 
 1.https://leetcode.com/problems/maximal-square/description/
