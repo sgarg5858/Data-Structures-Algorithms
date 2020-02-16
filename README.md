@@ -2,79 +2,81 @@
 
 Dynamic Programming:
 
-1.https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/
+1.https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/ *
 
-2.https://leetcode.com/problems/video-stitching/description/
+2.https://leetcode.com/problems/video-stitching/description/  *
 
-3.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+3.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/  *
 
 4.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
 
-5.https://leetcode.com/problems/palindrome-partitioning-ii/description/
+5.https://leetcode.com/problems/palindrome-partitioning-ii/description/  *
 
-6.https://leetcode.com/problems/word-break/description/
+6.https://leetcode.com/problems/word-break/description/  *
+ 
+7.https://leetcode.com/problems/super-ugly-number/description/  *
 
-7.https://leetcode.com/problems/super-ugly-number/description/
+8.https://leetcode.com/problems/coin-change/description/ *
 
-8.https://leetcode.com/problems/coin-change/description/
-
-9.https://leetcode.com/problems/minimum-cost-for-tickets/description/
+9.https://leetcode.com/problems/minimum-cost-for-tickets/description/ *
 
 10.https://leetcode.com/problems/partition-equal-subset-sum/description/
 
-11.https://leetcode.com/problems/delete-and-earn/description/
+11.https://leetcode.com/problems/delete-and-earn/description/ *
 
 12.https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/
 
-13.https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+13.https://leetcode.com/problems/cheapest-flights-within-k-stops/description/ *
 
 14.https://leetcode.com/problems/push-dominoes/description/ 
 
-15.https://leetcode.com/problems/jump-game-v/description/
+15.https://leetcode.com/problems/jump-game-v/description/ *
 
 Heaps:
 
-1.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
+1.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/ *
 
-2.https://leetcode.com/problems/course-schedule-iii/description/
+2.https://leetcode.com/problems/course-schedule-iii/description/ *
 
 3.https://leetcode.com/problems/relative-ranks/description/
 
 4.https://leetcode.com/problems/find-median-from-data-stream
 
-5.https://leetcode.com/problems/reorganize-string/description/
+5.https://leetcode.com/problems/reorganize-string/description/ *
+
+6.https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/ *
 
 Sliding Window:
 
 1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
 
-2.https://leetcode.com/problems/fruit-into-baskets/
+2.https://leetcode.com/problems/fruit-into-baskets/ *
 
-3.https://leetcode.com/problems/sliding-window-maximum
+3.https://leetcode.com/problems/sliding-window-maximum *
 
 4.https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 Two Pointers:
 
-1.https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+1.https://leetcode.com/problems/count-number-of-nice-subarrays/description/ *
 
-2.https://leetcode.com/problems/max-consecutive-ones-iii
+2.https://leetcode.com/problems/max-consecutive-ones-iii *
 
-3.https://leetcode.com/problems/subarray-product-less-than-k
+3.https://leetcode.com/problems/subarray-product-less-than-k *
 
 4.https://leetcode.com/problems/sort-colors
 
 5.https://leetcode.com/problems/trapping-rain-water
 
-6.https://leetcode.com/problems/partition-labels
+6.https://leetcode.com/problems/partition-labels *
 
-7.https://leetcode.com/problems/most-profit-assigning-work/description/
+7.https://leetcode.com/problems/most-profit-assigning-work/description/ *
 
 Array Problems:
 
-1.https://leetcode.com/problems/gas-station/description/
+1.https://leetcode.com/problems/gas-station/description/ *
 
-2.https://leetcode.com/problems/largest-number/description/
+2.https://leetcode.com/problems/largest-number/description/ *
 
 3.https://leetcode.com/problems/rotate-array/description/
 
@@ -86,10 +88,10 @@ Array Problems:
 
 7.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 
-8.https://leetcode.com/problems/largest-number/description/
+8.https://leetcode.com/problems/largest-number/description/ 
 
 
-Interval Problems
+Interval Problems *
 
 1.https://leetcode.com/problems/insert-interval/  
 
@@ -105,7 +107,7 @@ Interval Problems
 
 7.https://leetcode.com/problems/merge-intervals/description/
 
-8.https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/ (V.Imp)
+8.https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/ *
 
 Matrix DP problems:
 
