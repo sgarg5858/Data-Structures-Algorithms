@@ -145,6 +145,8 @@ More Matrix Problems:
 
 4.https://leetcode.com/problems/search-a-2d-matrix/description/
 
+5.https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+
 Binary Search Problems:
 
 1.https://leetcode.com/problems/valid-perfect-square/description/
