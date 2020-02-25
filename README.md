@@ -88,6 +88,10 @@ Array Problems:
 
 7.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 
+Sorting Problems:
+
+1.https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/
+
 
 Interval Problems *
 
