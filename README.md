@@ -62,19 +62,17 @@ Sliding Window:
 
 Two Pointers:
 
-1.https://leetcode.com/problems/count-number-of-nice-subarrays/description/ *
+1.https://leetcode.com/problems/max-consecutive-ones-iii *
 
-2.https://leetcode.com/problems/max-consecutive-ones-iii *
+2.https://leetcode.com/problems/subarray-product-less-than-k *
 
-3.https://leetcode.com/problems/subarray-product-less-than-k *
+3.https://leetcode.com/problems/sort-colors
 
-4.https://leetcode.com/problems/sort-colors
+4.https://leetcode.com/problems/trapping-rain-water
 
-5.https://leetcode.com/problems/trapping-rain-water
+5.https://leetcode.com/problems/partition-labels *
 
-6.https://leetcode.com/problems/partition-labels *
-
-7.https://leetcode.com/problems/most-profit-assigning-work/description/ *
+6.https://leetcode.com/problems/most-profit-assigning-work/description/ *
 
 Array Problems:
 
