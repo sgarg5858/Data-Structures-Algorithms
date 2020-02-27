@@ -58,6 +58,8 @@ Sliding Window:
 
 5.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
 
+6.https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+
 Two Pointers:
 
 1.https://leetcode.com/problems/count-number-of-nice-subarrays/description/ *
