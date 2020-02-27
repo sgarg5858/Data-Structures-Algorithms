@@ -62,6 +62,8 @@ Sliding Window:(Imp)
 
 7.https://leetcode.com/problems/binary-subarrays-with-sum/description/
 
+8.https://leetcode.com/problems/minimum-size-subarray-sum/description/ (Easy Version)
+
 Two Pointers:
 
 1.https://leetcode.com/problems/max-consecutive-ones-iii *
