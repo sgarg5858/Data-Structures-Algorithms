@@ -46,7 +46,7 @@ Heaps:
 
 6.https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/ *
 
-Sliding Window:
+Sliding Window:(Imp)
 
 1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
 
@@ -59,6 +59,8 @@ Sliding Window:
 5.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
 
 6.https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+
+7.https://leetcode.com/problems/binary-subarrays-with-sum/description/
 
 Two Pointers:
 
