@@ -56,6 +56,8 @@ Sliding Window:
 
 4.https://leetcode.com/problems/longest-substring-without-repeating-characters
 
+5.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+
 Two Pointers:
 
 1.https://leetcode.com/problems/count-number-of-nice-subarrays/description/ *
