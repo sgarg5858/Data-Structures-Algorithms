@@ -66,6 +66,8 @@ Sliding Window:(Imp)
 
 9.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/ (Hard Version)
 
+10.https://leetcode.com/problems/subarrays-with-k-different-integers/description/
+
 Two Pointers:
 
 1.https://leetcode.com/problems/max-consecutive-ones-iii *
