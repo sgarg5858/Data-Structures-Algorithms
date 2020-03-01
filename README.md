@@ -284,9 +284,11 @@ Breadth First Search / Depth First Search:
 
 2.https://leetcode.com/problems/number-of-islands
 
-3.https://leetcode.com/problems/jump-game-iv/description/
+3.https://leetcode.com/problems/jump-game-iv/description/  *
 
-4.https://leetcode.com/problems/jump-game-iii/
+4.https://leetcode.com/problems/jump-game-iii/  *
+
+5.https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/ *
 
 Stack:
 
