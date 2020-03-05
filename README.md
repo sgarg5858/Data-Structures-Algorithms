@@ -32,6 +32,8 @@ Dynamic Programming:
 
 15.https://leetcode.com/problems/jump-game-v/description/ *
 
+16.https://leetcode.com/problems/greatest-sum-divisible-by-three/description/
+
 Heaps:
 
 1.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/ *
