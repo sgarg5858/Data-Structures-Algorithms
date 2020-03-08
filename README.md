@@ -60,7 +60,7 @@ Sliding Window:(Imp)
 
 4.https://leetcode.com/problems/longest-substring-without-repeating-characters
 
-5.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+5.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/ *
 
 6.https://leetcode.com/problems/count-number-of-nice-subarrays/description/
 
@@ -71,6 +71,8 @@ Sliding Window:(Imp)
 9.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/ (Hard Version)
 
 10.https://leetcode.com/problems/subarrays-with-k-different-integers/description/
+
+11.https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/ *
 
 Two Pointers:
 
