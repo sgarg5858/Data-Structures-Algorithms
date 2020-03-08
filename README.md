@@ -96,13 +96,15 @@ Array Problems:
 
 3.https://leetcode.com/problems/rotate-array/description/
 
-4.https://leetcode.com/problems/house-robber/description/
+4.https://leetcode.com/problems/house-robber/description/ *
 
 5.https://leetcode.com/problems/house-robber-ii/
 
-6.https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+6.https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ *
 
-7.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+7.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ *
+
+8.https://leetcode.com/problems/bulb-switcher-iii/description/ *
 
 Sorting Problems:
 
