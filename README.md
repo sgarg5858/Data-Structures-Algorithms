@@ -296,6 +296,8 @@ Breadth First Search / Depth First Search:
 
 5.https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/ *
 
+6.https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/
+
 Stack:
 
 1.https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
