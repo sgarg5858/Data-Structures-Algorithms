@@ -248,6 +248,8 @@ Binary Search Trees:
 
 4.https://leetcode.com/problems/binary-search-tree-iterator/description/
 
+5.https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/ *
+
 Binary Trees using dfs/bfs:
 
 1.https://leetcode.com/problems/same-tree/description/
