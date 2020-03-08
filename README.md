@@ -301,6 +301,8 @@ Breadth First Search / Depth First Search:
 
 6.https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/
 
+7.https://leetcode.com/problems/time-needed-to-inform-all-employees/description/
+
 Stack:
 
 1.https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
