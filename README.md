@@ -49,6 +49,8 @@ Heaps:
 
 6.https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/ *
 
+7.https://leetcode.com/problems/task-scheduler/description/
+
 Sliding Window:(Imp)
 
 1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
@@ -414,7 +416,6 @@ Random:
 
 19.https://leetcode.com/problems/binary-search-tree-iterator
 
-20.https://leetcode.com/problems/task-scheduler/description/
 
 
 
