@@ -53,17 +53,17 @@ Heaps:
 
 Sliding Window:(Imp)
 
-1.https://leetcode.com/problems/grumpy-bookstore-owner/description/
+1.https://leetcode.com/problems/grumpy-bookstore-owner/description/ *
 
 2.https://leetcode.com/problems/fruit-into-baskets/ *
 
 3.https://leetcode.com/problems/sliding-window-maximum *
 
-4.https://leetcode.com/problems/longest-substring-without-repeating-characters
+4.https://leetcode.com/problems/longest-substring-without-repeating-characters *
 
 5.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/ *
 
-6.https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+6.https://leetcode.com/problems/count-number-of-nice-subarrays/description/ *
 
 7.https://leetcode.com/problems/binary-subarrays-with-sum/description/
 
