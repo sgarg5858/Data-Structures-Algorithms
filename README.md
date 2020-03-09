@@ -107,6 +107,8 @@ Array Problems:
 
 8.https://leetcode.com/problems/bulb-switcher-iii/description/ *
 
+9.https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+
 Sorting Problems:
 
 1.https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/
