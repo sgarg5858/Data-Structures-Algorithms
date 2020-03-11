@@ -69,11 +69,9 @@ Sliding Window:(Imp)
 
 8.https://leetcode.com/problems/minimum-size-subarray-sum/description/ (Easy Version)
 
-9.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/ (Hard Version)
+9.https://leetcode.com/problems/subarrays-with-k-different-integers/description/
 
-10.https://leetcode.com/problems/subarrays-with-k-different-integers/description/
-
-11.https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/ *
+10.https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/ *
 
 Two Pointers:
 
@@ -88,6 +86,12 @@ Two Pointers:
 5.https://leetcode.com/problems/partition-labels *
 
 6.https://leetcode.com/problems/most-profit-assigning-work/description/ *
+
+Problems Where Sliding Window doesn't work due to presence of Negative Numbers.
+
+1. https://leetcode.com/problems/subarray-sum-equals-k/description/
+
+2.9.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
 
 Array Problems:
 
