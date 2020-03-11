@@ -34,7 +34,7 @@ Dynamic Programming:
 
 16.https://leetcode.com/problems/greatest-sum-divisible-by-three/description/ *
 
-
+************************************************************************************************************
 Heaps:
 
 1.https://leetcode.com/problems/minimum-number-of-refueling-stops/description/ *
@@ -50,6 +50,8 @@ Heaps:
 6.https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/ *
 
 7.https://leetcode.com/problems/task-scheduler/description/
+
+**************************************************************************************************************************************
 
 Sliding Window:(Imp)
 
@@ -73,6 +75,8 @@ Sliding Window:(Imp)
 
 10.https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/ *
 
+**************************************************************************************************************************************
+
 Two Pointers:
 
 1.https://leetcode.com/problems/max-consecutive-ones-iii *
@@ -87,11 +91,15 @@ Two Pointers:
 
 6.https://leetcode.com/problems/most-profit-assigning-work/description/ *
 
-Problems Where Sliding Window doesn't work due to presence of Negative Numbers.
+**************************************************************************************************************************************
+
+Problems Where Sliding Window doesn't work due to presence of Negative Numbers:
 
 1. https://leetcode.com/problems/subarray-sum-equals-k/description/
 
-2.9.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
+2.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
+
+**************************************************************************************************************************************
 
 Array Problems:
 
@@ -113,10 +121,13 @@ Array Problems:
 
 9.https://leetcode.com/problems/largest-rectangle-in-histogram/description/
 
+**************************************************************************************************************************************
+
 Sorting Problems:
 
 1.https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/
 
+**************************************************************************************************************************************
 
 Interval Problems *
 
@@ -136,6 +147,8 @@ Interval Problems *
 
 8.https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/ *
 
+**************************************************************************************************************************************
+
 Matrix DP problems:
 
 1.https://leetcode.com/problems/maximal-square/description/
@@ -152,6 +165,8 @@ Matrix DP problems:
 
 7.https://leetcode.com/problems/dungeon-game/description/
 
+**************************************************************************************************************************************
+
 Range Query In Matrix:
 
 1.https://leetcode.com/problems/range-sum-query-2d-immutable/description/
@@ -160,11 +175,15 @@ Range Query In Matrix:
 
 3.https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/
 
+**************************************************************************************************************************************
+
 Matrix Word Search:
 
 1.https://leetcode.com/problems/word-search/description/
 
 2.https://leetcode.com/problems/word-search-ii/description/
+
+**************************************************************************************************************************************
 
 More Matrix Problems:
 
@@ -177,6 +196,8 @@ More Matrix Problems:
 4.https://leetcode.com/problems/search-a-2d-matrix/description/
 
 5.https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+
+**************************************************************************************************************************************
 
 Binary Search Problems:
 
@@ -192,12 +213,16 @@ Binary Search Problems:
 
 6.https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 
+**************************************************************************************************************************************
+
 
 Longest Increasing Subsequence  Prolems:
 
 1.https://leetcode.com/problems/longest-increasing-subsequence
 
 2.https://leetcode.com/problems/russian-doll-envelopes
+
+**************************************************************************************************************************************
 
 Backtracking Problems:
 
@@ -220,6 +245,8 @@ Backtracking Problems:
 9.https://leetcode.com/problems/palindrome-partitioning
 
 10.https://leetcode.com/problems/path-with-maximum-gold/description/
+
+**************************************************************************************************************************************
 
 String Problems:
 
@@ -246,6 +273,8 @@ String Problems:
 
 10.https://leetcode.com/problems/valid-palindrome-ii
 
+**************************************************************************************************************************************
+
 
 Binary Search Trees:
 
@@ -258,6 +287,8 @@ Binary Search Trees:
 4.https://leetcode.com/problems/binary-search-tree-iterator/description/
 
 5.https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/ *
+
+**************************************************************************************************************************************
 
 Binary Trees using dfs/bfs:
 
@@ -295,6 +326,8 @@ Binary Trees using dfs/bfs:
 
 17.https://leetcode.com/problems/linked-list-in-binary-tree/description/ *
 
+**************************************************************************************************************************************
+
 Breadth First Search / Depth First Search:
 
 1.https://leetcode.com/problems/surrounded-regions
@@ -311,6 +344,8 @@ Breadth First Search / Depth First Search:
 
 7.https://leetcode.com/problems/time-needed-to-inform-all-employees/description/
 
+**************************************************************************************************************************************
+
 Stack:
 
 1.https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
@@ -321,9 +356,13 @@ Stack:
 
 4.https://leetcode.com/problems/maximum-width-ramp
 
+**************************************************************************************************************************************
+
 Queue:
 
 1.https://leetcode.com/problems/reveal-cards-in-increasing-order/description/
+
+**************************************************************************************************************************************
 
 Graph:
 
@@ -369,6 +408,7 @@ DFS/BFS:
 
 20.https://leetcode.com/problems/friend-circles
 
+**************************************************************************************************************************************
 
 Shortest Path Problems:
 
@@ -376,11 +416,15 @@ Shortest Path Problems:
 
 2.http://codeforces.com/problemset/problem/20/C
 
+**************************************************************************************************************************************
+
 Topological Sort:(DAG)
 
 1.https://leetcode.com/problems/course-schedule/description/ 
 
 2.https://leetcode.com/problems/course-schedule-ii/description/
+
+**************************************************************************************************************************************
 
 Random:
 
