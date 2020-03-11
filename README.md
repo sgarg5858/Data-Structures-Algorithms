@@ -51,6 +51,8 @@ Heaps:
 
 7.https://leetcode.com/problems/task-scheduler/description/
 
+8.https://leetcode.com/problems/most-profit-assigning-work/description/
+
 **************************************************************************************************************************************
 
 Sliding Window:(Imp)
@@ -89,7 +91,6 @@ Two Pointers:
 
 5.https://leetcode.com/problems/partition-labels *
 
-6.https://leetcode.com/problems/most-profit-assigning-work/description/ *
 
 **************************************************************************************************************************************
 
