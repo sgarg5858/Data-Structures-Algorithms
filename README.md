@@ -93,11 +93,13 @@ Two Pointers:
 
 **************************************************************************************************************************************
 
-Problems Where Sliding Window doesn't work due to presence of Negative Numbers:
+Problems Where Sliding Window doesn't work due to presence of Negative Numbers:Important
 
 1. https://leetcode.com/problems/subarray-sum-equals-k/description/
 
-2.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
+2.https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/ (imp)
+
+3.https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
 
 **************************************************************************************************************************************
 
