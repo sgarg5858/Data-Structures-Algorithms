@@ -2,35 +2,35 @@
 
 Dynamic Programming:
 
-1.https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/ *
+1.https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/ *****
 
-2.https://leetcode.com/problems/video-stitching/description/  *
+2.https://leetcode.com/problems/video-stitching/description/  ****
 
 3.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/  *
 
 4.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
 
-5.https://leetcode.com/problems/palindrome-partitioning-ii/description/  *
+5.https://leetcode.com/problems/palindrome-partitioning-ii/description/  ****
 
-6.https://leetcode.com/problems/word-break/description/  *
+6.https://leetcode.com/problems/word-break/description/  ****
  
-7.https://leetcode.com/problems/super-ugly-number/description/  *
+7.https://leetcode.com/problems/super-ugly-number/description/  ****
 
-8.https://leetcode.com/problems/coin-change/description/ *
+8.https://leetcode.com/problems/coin-change/description/ ****
 
-9.https://leetcode.com/problems/minimum-cost-for-tickets/description/ *
+9.https://leetcode.com/problems/minimum-cost-for-tickets/description/ ****
 
-10.https://leetcode.com/problems/partition-equal-subset-sum/description/
+10.https://leetcode.com/problems/partition-equal-subset-sum/description/ ****
 
-11.https://leetcode.com/problems/delete-and-earn/description/ *
+11.https://leetcode.com/problems/delete-and-earn/description/ ****
 
-12.https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/
+12.https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/ ****
 
-13.https://leetcode.com/problems/cheapest-flights-within-k-stops/description/ *
+13.https://leetcode.com/problems/cheapest-flights-within-k-stops/description/ ****
 
 14.https://leetcode.com/problems/push-dominoes/description/ 
 
-15.https://leetcode.com/problems/jump-game-v/description/ *
+15.https://leetcode.com/problems/jump-game-v/description/ ****
 
 16.https://leetcode.com/problems/greatest-sum-divisible-by-three/description/ *
 
