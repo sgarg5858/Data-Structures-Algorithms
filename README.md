@@ -53,6 +53,10 @@ Heaps:
 
 8.https://leetcode.com/problems/most-profit-assigning-work/description/
 
+9.https://leetcode.com/problems/maximum-performance-of-a-team/description/ Imp
+
+10.https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/ Imp
+
 **************************************************************************************************************************************
 
 Sliding Window:(Imp)
