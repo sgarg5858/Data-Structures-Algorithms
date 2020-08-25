@@ -184,14 +184,6 @@ Range Query In Matrix:
 
 **************************************************************************************************************************************
 
-Matrix Word Search:
-
-1.https://leetcode.com/problems/word-search/description/
-
-2.https://leetcode.com/problems/word-search-ii/description/
-
-**************************************************************************************************************************************
-
 More Matrix Problems:
 
 1.https://leetcode.com/problems/set-matrix-zeroes/description/
@@ -252,6 +244,12 @@ Backtracking Problems:
 9.https://leetcode.com/problems/palindrome-partitioning
 
 10.https://leetcode.com/problems/path-with-maximum-gold/description/
+
+11. https://leetcode.com/problems/unique-paths-iii/
+
+12.https://leetcode.com/problems/word-search/description/
+
+13.https://leetcode.com/problems/word-search-ii/description/
 
 **************************************************************************************************************************************
 
