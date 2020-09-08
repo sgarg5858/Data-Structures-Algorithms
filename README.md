@@ -130,6 +130,8 @@ Array Problems:
 
 9.https://leetcode.com/problems/largest-rectangle-in-histogram/description/
 
+10.https://leetcode.com/problems/word-pattern/discuss/835762/Easy-Solution-In-Java
+
 **************************************************************************************************************************************
 
 Sorting Problems:
