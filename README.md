@@ -95,6 +95,8 @@ Two Pointers:
 
 5.https://leetcode.com/problems/partition-labels *
 
+6. https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/
+
 
 **************************************************************************************************************************************
 
